@@ -1,1 +1,1 @@
-GET {{host}}/api/ping
+GET {{host}}/ping
