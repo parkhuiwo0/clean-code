@@ -1,4 +1,4 @@
-package com.phangji.houseutils;
+package com.parkhuiwo0.houseutils;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.phangji.houseutils.policy;
+package com.parkhuiwo0.houseutils.policy;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
